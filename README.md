@@ -1,7 +1,7 @@
 # jcgalvisa.github.io
 
 <h1> Test </h1>
-Simple GMsFEM examples:
+Simple GMsFEM examples (under construction):
 <html>
 <body>
 
