@@ -1,7 +1,7 @@
 # jcgalvisa.github.io
 
 <h1> Test </h1>
-        <p> GMsFEM link</p>
+GMsFEM link
 <html>
 <body>
 
