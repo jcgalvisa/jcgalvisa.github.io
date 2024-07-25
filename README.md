@@ -2,7 +2,7 @@
 <a href="https://sites.google.com/view/jgalvis/home" class="button">UNAL web page.</a>
 
 
-<a href="https://scholar.google.com/citations?user=lbfc2joAAAAJ&hl=en" class="button">Google Scholar prifile.</a>
+<a href="https://scholar.google.com/citations?user=lbfc2joAAAAJ&hl=en" class="button">Google Scholar profile.</a>
 
 <h1> GMsFEM </h1>
 Simple GMsFEM examples (under construction):
