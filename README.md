@@ -1,6 +1,6 @@
 # jcgalvisa.github.io
 
-<h1> Test </h1>
+<h1> GMsFEM </h1>
 Simple GMsFEM examples (under construction):
 <html>
 <body>
